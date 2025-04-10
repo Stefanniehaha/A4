@@ -1,4 +1,4 @@
-ID,GamePSID,GAME,Publisher,ReleaseYear,ReleaseDate,Developer,Genre,Features,Size,Medium,Hardware,CompletionTime(Hours),is_Digital_game,is_Physical_game,OfficialWebsite
+ID,GamePSID,GAME,Publisher,YEAR,ReleaseDate,Developer,Genre,Features,Size,Medium,Hardware,CompletionTime(Hours),is_Digital_game,is_Physical_game,OfficialWebsite
 1,3045,Q*Bert Rebooted,LOOT Interactive,2015.0,2015-02-17,Gonzo Games,Action,"PS Plus, PS Now",109.0,,,nan,0,0,http://www.sidelineamusements.com/qbert/
 2,3051,Q*Bert Rebooted (EU),LOOT Interactive,2015.0,2015-07-22,LOOT Interactive,Action,PS Now,127.0,Digital only,,nan,0,0,http://www.sidelineamusements.com/qbert/
 3,6703,Q.U.B.E. 2,Trapped Nerve Games,2018.0,2018-03-13,Toxic Games,"Puzzle, Platformer",,2682.88,Digital only,,nan,0,0,http://qube-game.com/
