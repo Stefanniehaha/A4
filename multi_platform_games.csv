@@ -1,51 +1,51 @@
-Game,Platform,Platform_Count
-890B,PS4,2
-890B,Steam,2
-A Juggler's Tale,PS4,2
-A Juggler's Tale,Steam,2
-AKIBA'S TRIP: Hellbound & Debriefed,PS4,2
-AKIBA'S TRIP: Hellbound & Debriefed,Steam,2
-ALTDEUS: Beyond Chronos,Steam,2
-ALTDEUS: Beyond Chronos,PS4,2
-ASTRO AQUA KITTY,PS4,2
-ASTRO AQUA KITTY,Steam,2
-Aeon Must Die!,Steam,2
-Aeon Must Die!,PS4,2
-Aery - A Journey Beyond Time,PS4,2
-Aery - A Journey Beyond Time,Steam,2
-Aery - Calm Mind,Steam,2
-Aery - Calm Mind,PS4,2
-Agatha Christie - Hercule Poirot: The First Cases,Steam,2
-Agatha Christie - Hercule Poirot: The First Cases,PS4,2
-Alchemist Adventure,PS4,2
-Alchemist Adventure,Steam,2
-Breathedge,PS4,3
-Breathedge,Xbox,3
-Breathedge,Steam,3
-DEEEER Simulator: Your Average Everyday Deer Game,PS4,3
-DEEEER Simulator: Your Average Everyday Deer Game,Xbox,3
-DEEEER Simulator: Your Average Everyday Deer Game,Steam,3
-Dandy Ace,PS4,3
-Dandy Ace,Xbox,3
-Dandy Ace,Steam,3
-Dodgeball Academia,PS4,3
-Dodgeball Academia,Xbox,3
-Dodgeball Academia,Steam,3
-Flynn: Son of Crimson,PS4,3
-Flynn: Son of Crimson,Steam,3
-Flynn: Son of Crimson,Xbox,3
-Lost Words: Beyond the Page,PS4,3
-Lost Words: Beyond the Page,Xbox,3
-Lost Words: Beyond the Page,Steam,3
-Omno,Steam,3
-Omno,PS4,3
-Omno,Xbox,3
-The Good Life,Steam,3
-The Good Life,PS4,3
-The Good Life,Xbox,3
-The Wild at Heart,Steam,3
-The Wild at Heart,PS4,3
-The Wild at Heart,Xbox,3
-UNSIGHTED,Steam,3
-UNSIGHTED,Xbox,3
-UNSIGHTED,PS4,3
+Game,Platform,Platform_Count,Theme,Review_Num
+890B,PS4,2,Adventure,55
+890B,Steam,2,Adventure,1
+A Juggler's Tale,PS4,2,Adventure,449
+A Juggler's Tale,Steam,2,Adventure,922
+AKIBA'S TRIP: Hellbound & Debriefed,PS4,2,Open World,152
+AKIBA'S TRIP: Hellbound & Debriefed,Steam,2,Open World,248
+ALTDEUS: Beyond Chronos,Steam,2,Adventure,360
+ALTDEUS: Beyond Chronos,PS4,2,Adventure,85
+ASTRO AQUA KITTY,PS4,2,Action RPG,52
+ASTRO AQUA KITTY,Steam,2,Action RPG,68
+Aeon Must Die!,Steam,2,Action,85
+Aeon Must Die!,PS4,2,Action,4
+Aery - A Journey Beyond Time,PS4,2,Simulation,61
+Aery - A Journey Beyond Time,Steam,2,Simulatino,38
+Aery - Calm Mind,Steam,2,Relax,57
+Aery - Calm Mind,PS4,2,Relax,56
+Agatha Christie - Hercule Poirot: The First Cases,Steam,2,Adventure,942
+Agatha Christie - Hercule Poirot: The First Cases,PS4,2,Adventure,222
+Alchemist Adventure,PS4,2,Adventage,39
+Alchemist Adventure,Steam,2,Adventage,82
+Breathedge,PS4,3,Adventure,582
+Breathedge,Xbox,3,Adventure,742
+Breathedge,Steam,3,Adventage,121
+DEEEER Simulator: Your Average Everyday Deer Game,PS4,3,Adventure,2100
+DEEEER Simulator: Your Average Everyday Deer Game,Xbox,3,Adventure,1500
+DEEEER Simulator: Your Average Everyday Deer Game,Steam,3,Adventre,3819
+Dandy Ace,PS4,3,Action,46
+Dandy Ace,Xbox,3,Action,134
+Dandy Ace,Steam,3,Action,983
+Dodgeball Academia,PS4,3,Action,793
+Dodgeball Academia,Xbox,3,Action,415
+Dodgeball Academia,Steam,3,Action,411
+Flynn: Son of Crimson,PS4,3,Action,109
+Flynn: Son of Crimson,Steam,3,Action,311
+Flynn: Son of Crimson,Xbox,3,Action,290
+Lost Words: Beyond the Page,PS4,3,Action,821
+Lost Words: Beyond the Page,Xbox,3,Action,98
+Lost Words: Beyond the Page,Steam,3,Action,569
+Omno,Steam,3,Adventure,1552
+Omno,PS4,3,Adventure,1400
+Omno,Xbox,3,Adventure,862
+The Good Life,Steam,3,Action,176
+The Good Life,PS4,3,Action,99
+The Good Life,Xbox,3,Action,274
+The Wild at Heart,Steam,3,Fantasy,523
+The Wild at Heart,PS4,3,Fantasy,777
+The Wild at Heart,Xbox,3,Fantasy,340
+UNSIGHTED,Steam,3,Action,1556
+UNSIGHTED,Xbox,3,Action,337
+UNSIGHTED,PS4,3,Action,204
